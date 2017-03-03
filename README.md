@@ -3,8 +3,6 @@ Cube Summation Challenge
 
 Repositorio que contiene la implementación en Laravel del reto planteado en https://www.hackerrank.com/challenges/cube-summation.
 
-**Demo:**
-https://cube-summation-miguelcrespo.c9users.io/public/
 
 
 ![App](http://s16.postimg.org/c2znqlmat/Screen_Shot_2016_01_15_at_5_06_24_PM.png)
