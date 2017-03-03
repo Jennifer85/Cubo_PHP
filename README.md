@@ -5,7 +5,6 @@ Repositorio que contiene la implementación en Laravel del reto planteado en htt
 
 
 
-![App](http://s16.postimg.org/c2znqlmat/Screen_Shot_2016_01_15_at_5_06_24_PM.png)
 
 
 Capas de la aplicacion
